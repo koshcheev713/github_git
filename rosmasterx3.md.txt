@@ -18,3 +18,4 @@ https://bucket-download.slamtec.com/d1e428e7efbdcd65a8ea111061794fb8d4ccd3a0/LD1
 
 https://github.com/Slamtec/rplidar_sdk
 
+https://github.com/YahboomTechnology/ROSMASTERX3
