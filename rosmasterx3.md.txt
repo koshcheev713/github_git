@@ -1,0 +1,21 @@
+Camera 
+
+	https://www.orbbec.com/developers/astra-sdk/
+
+	https://structure.io/openni
+
+
+	https://support.google.com/googleplay/android-developer/answer/10358880?hl=en
+
+
+
+
+Lidar
+
+https://www.slamtec.ai/home/rplidar_a1/
+
+https://bucket-download.slamtec.com/d1e428e7efbdcd65a8ea111061794fb8d4ccd3a0/LD108_SLAMTEC_rplidar_datasheet_A1M8_v3.0_en.pdf
+
+https://github.com/Slamtec/rplidar_sdk
+
+https://github.com/YahboomTechnology/ROSMASTERX3
